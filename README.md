@@ -14,7 +14,7 @@ In this hands-on session, you will:
 - Gain practical experience by processing seismic events.
 
 ## 📑 Contents of the Repository
-- `notebooks/ssa2py_hands_on.ipynb`: The main notebook for the workshop, which contains code and exercises.
+- `notebooks/SSA2py_Ridgecrest.ipynb`: The main notebook for the workshop, which contains code and exercises.
 ---
 
 ## 🧑‍💻 Getting Started
@@ -27,7 +27,7 @@ To participate in this workshop, please ensure you have the following:
 ### 2. Opening the Notebook in Google Colab
 To open the notebook and run the code directly in Google Colab:
 1. **Click the link below** to open the notebook in Colab:
-   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/py-ssa-workshop/blob/main/notebooks/py_ssa_hands_on.ipynb)
+   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ifountoul/notebooks/SSA2py_Ridgecrest.ipynb)
    
 2. You will follow along my instructions to complete the exercise.
 
